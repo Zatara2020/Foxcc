@@ -1,4 +1,4 @@
-# Fox CC
+# Foxcc
 [-] Black Fox CC Tools 
 # Features
 > [&] Fast & easy 
